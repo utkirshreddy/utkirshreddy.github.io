@@ -1,0 +1,26 @@
+[
+  {
+    "title": "AUsomeBlue Website",
+    "imageSrc": "projects/project.png",
+    "description": "Informative website for a non-profit organization with the intent to inform the autism community about charitable events and essential financial resources.",
+    "skills": ["React", "PayPal Developer Kit"],
+    "demo": "",
+    "source": ""
+  },
+  {
+    "title": "Melodic Sculptor",
+    "imageSrc": "projects/project.png",
+    "description": "Dynamic web application aimed at enhancing the music discovery experience through personalized recommendations aligned with user-selected genres.",
+    "skills": ["React", "Spotify WebAPI"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Shot-Clock Duel",
+    "imageSrc": "projects/project.png",
+    "description": "Backend platform that replicates the essence of a live basketball game through the inclusion of a large NBA player selection pool that empopwers users to strategically craft theirs teams",
+    "skills": ["Java"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
